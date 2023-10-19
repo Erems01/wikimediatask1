@@ -1,0 +1,1 @@
+Created a Bug model with the fields: "description", "bug_type, "report_date, and "status"
